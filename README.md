@@ -13,7 +13,7 @@ Este exercicio, faz parte do treinamento Dev Quest, realizado pelo [Dev-em-Dobro
 
 ### Screenshot
 
-![](/src/imagees/ex-js-avancado2.gif)
+![](/src/design/ex-js-avancado2.gif)
 
 
 ### Live Site
