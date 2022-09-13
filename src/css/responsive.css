@@ -1,0 +1,36 @@
+@media (max-width: 700px) {
+    body {
+        font-size: 20px;
+    }
+
+    .title {
+        font-size: 12px;
+    }
+
+    .container {
+        width: 325px;
+        padding: 40px 30px;
+     
+    }
+
+    .title,
+    .container {
+        margin-bottom: 25px;
+    }
+
+    .divider {
+        margin-bottom: 20px;
+    }
+
+    .btn {
+        left: 41%;
+    }
+}
+
+@media (max-width: 375px) {
+    .container {
+        width: 320px;
+        padding: 40px 30px;
+
+    }
+}
