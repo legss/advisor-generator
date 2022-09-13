@@ -18,7 +18,7 @@ Este exercicio, faz parte do treinamento Dev Quest, realizado pelo [Dev-em-Dobro
 
 ### Live Site
 
-Caso quiser ver como ficou o mini-projeto, eu postei [aqui](https://legss.github.io/desafio3-devquest/)
+Caso quiser ver como ficou o mini-projeto, eu postei [aqui](https://legss.github.io/advisor-generator/)
 
 
 ### O que foi usado?
