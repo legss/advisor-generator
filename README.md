@@ -18,7 +18,7 @@ Este exercicio, faz parte do treinamento Dev Quest, realizado pelo [Dev-em-Dobro
 
 ### Live Site
 
-Caso quiser ver como ficou o mini-projeto, eu postei [aqui](https://legss.github.io/quest-react-basico/)
+Caso quiser ver como ficou o mini-projeto, eu postei [aqui](https://legss.github.io/advisor-generator/)
 
 
 ### O que foi usado?
